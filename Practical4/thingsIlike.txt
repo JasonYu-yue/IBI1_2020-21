@@ -1,4 +1,22 @@
-
-I like talk radio
+I like playing piano but I am not a good player
+I like cute animals but I am afraid of being bitten by them
+I like R＆B music very much
+I like Charlie Puth who is one of my favorite singners
+I like any beautiful things
+I like travel with my freinds or family
+<<<<<<< HEAD
+I like sandwich
+I like spring the best
+I like puppies
+I like juice
+I like summer feeling
+=======
+I don't like summer feeling
+I like tea
+I like coffee
+I like chocolate biscuits
 I like snow
-I like biscuits
+I like flower
+
+>>>>>>> Alex
+ 
