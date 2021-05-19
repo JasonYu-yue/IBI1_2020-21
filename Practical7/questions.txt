@@ -1,0 +1,4 @@
+The question is what is the situation of the total_cases and total_deaths in Afghanistan
+The answer is in the covid.py line54-65
+The discussion:the totoal case occur at 2020-2-25 and grow fastly through time
+while the total deaths occur at 2020-3-24 and grow slowly through time
