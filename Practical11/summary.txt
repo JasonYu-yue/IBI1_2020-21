@@ -1,0 +1,13 @@
+the identical distance of SOD2_human (NP_000627.2) and RandomSeq is : 12
+the percentage is : 5.405405405405405%
+the identical distance of SOD2_mouse (NP_038699.2) and RandomSeq is : 13
+the percentage is : 5.8558558558558556%
+the identical distance of SOD2_human (NP_000627.2) and SOD2_mouse (NP_038699.2) is : 199
+the percentage is : 89.63963963963964%
+
+explaination:
+The mouse and the human protein have a strong degree of similarity
+while the random seq do not have strong similarity with mouse or human.
+It could be deduced that the protein SOD2 may responsible for some neccessary activities in mouse and human.
+Also, since mouse and human are all mammals it can be infered that the difference between mouse and human SOD2 protein did not influence the protein's core function
+With the strong similarity, we may also conclude that the mouse and the human may dived from same ancestor 
